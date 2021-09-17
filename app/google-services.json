@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962328948118",
+    "project_id": "richard-mobile",
+    "storage_bucket": "richard-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962328948118:android:1524eb6dce20f69375c1b7",
+        "android_client_info": {
+          "package_name": "com.example.richardwilliam_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962328948118-kdqj3dbmgq2t9912hmapiiu8i874i57c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7E-f-ypXX8vrsHjmkFVtLf3Phh_Q9hGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962328948118-kdqj3dbmgq2t9912hmapiiu8i874i57c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
